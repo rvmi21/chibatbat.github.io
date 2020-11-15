@@ -1,0 +1,17 @@
+@font-face {
+  font-family: standard;
+  src: url(Standard-master/standard-book.otf);
+}
+.container {
+  font-family: standard;
+  font-size: 400%;
+  padding-top: -10px;
+  padding-left: 35px;
+  padding-right: 25px;
+}
+a {
+  color: black;
+}
+.container a:hover {
+  color: white;
+}
